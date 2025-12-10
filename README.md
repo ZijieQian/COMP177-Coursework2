@@ -1,5 +1,5 @@
-# COMP177-Coursework2
-COMP177 Coursework2 Code:
+# COMP173-Coursework2
+COMP173 Coursework2 Code:
 
 We developed five variations of models for detecting landslides in satellite images of Nepal. Among these, the model whose name includes (focal+lr+input) was selected for the final analysis.
 
